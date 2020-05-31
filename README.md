@@ -8,5 +8,13 @@ Access the collection by using ‘allCases’ property and access its ‘rawVal
 </p>
 <p>Reference:</p>
 <p>https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html</p>
+<p>Instructions:</P>
+<p>
+  <ol>
+    <li>In the App and SceneDelegate, the following has been added below the import statement to be able to run with iOS 12.4 and above:
+      @available (iOS 13.0, *)</li>
+    <li>Don't forget to update your Bundle identifier and your provisioning profile after downloading the zip file.</li>
+  </ol>
+ </p>
 <p>Screenshot:</p>
 <img src = "Whiskey/image/screenshot.png" width = "300px" height = "600px" />
