@@ -7,5 +7,4 @@ Enumeration using raw values, conformed to the ‘CaseIterable’ protocol.
 Access the collection by using ‘allCases’ property and access its ‘rawValue’.
 </p>
 
-![](image/screenshot.png)
-//<img src=“enum_raw_values/Whiskey/image/screenshot.png” width=“300px” height=”600px” />
+<img src=“../image/screenshot.png” width=“300px” height=”600px” />
