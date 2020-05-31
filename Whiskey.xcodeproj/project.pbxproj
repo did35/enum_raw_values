@@ -52,7 +52,6 @@
 		63E20AAE2483DE4800AE80A2 = {
 			isa = PBXGroup;
 			children = (
-				632FFF682483F814001C8B15 /* image */,
 				63E20AB92483DE4800AE80A2 /* Whiskey */,
 				63E20AB82483DE4800AE80A2 /* Products */,
 			);
@@ -69,6 +68,7 @@
 		63E20AB92483DE4800AE80A2 /* Whiskey */ = {
 			isa = PBXGroup;
 			children = (
+				632FFF682483F814001C8B15 /* image */,
 				63E20AD02483DEDC00AE80A2 /* Model */,
 				63E20ACF2483DED400AE80A2 /* View */,
 				63E20ACE2483DECB00AE80A2 /* Controller */,
