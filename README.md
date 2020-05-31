@@ -6,7 +6,7 @@
 Enumeration using raw values, conformed to the ‘CaseIterable’ protocol.
 Access the collection by using ‘allCases’ property and access its ‘rawValue’.
 </p>
-<p>The Swift programming guide reference:
-  https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html</p>
+<p>Reference:</p>
+<p>https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html</p>
 <p>Screenshot:</p>
 <img src = "Whiskey/image/screenshot.png" width = "300px" height = "600px" />
